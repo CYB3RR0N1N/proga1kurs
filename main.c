@@ -24,7 +24,6 @@ int main()
         if (f_center == 0)
         {
             // Действия, если условие истинно
-            answer = center; 
             break;
         } 
         else
